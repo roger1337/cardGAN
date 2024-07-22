@@ -1,5 +1,5 @@
 # cardGAN
-Generative adversarial network, implemented in PyTorch to generate yu-gi-oh cards.
+Used a generative adversarial network implemented in PyTorch to generate yu-gi-oh cards.
 Used the dataset here: https://www.kaggle.com/datasets/axelpuech/card-database
 
 # Demonstration GIF
